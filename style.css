@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+}
+
+body {
+    /* Created with https://www.css-gradient.com */
+background: rgba(145, 171, 192, 1.0);
+
+background: radial-gradient(to bottom right, rgba(145, 171, 192, 1.0), rgba(70, 92, 150, 1.0));
+}
+  
+h1 {
+    text-align: center;
+    margin: 10px auto 15px auto;
+}
+.jumbotron {
+    border-radius: 20px;
+}
+
+button {
+    border-radius: 10px;
+    margin: 20px auto 15px auto;    
+}
+h4 {
+    color: red;
+}
+legend {
+    margin: 5px auto 5px auto;
+}
